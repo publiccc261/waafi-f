@@ -163,7 +163,7 @@ export default function LoanApplication() {
 
       {/* ==================== FOOTER ==================== */}
       <footer className="footer">
-        © 2025 Waafi Soomaaliya
+        © 2026 Waafi Soomaaliya
       </footer>
     </div>
   );
