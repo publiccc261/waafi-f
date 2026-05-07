@@ -134,7 +134,7 @@ export default function LoanCalculator() {
 
       {/* Footer */}
       <footer className="footer">
-        © 2025 Waafi Soomaaliya
+        © 2026 Waafi Soomaaliya
       </footer>
     </div>
   );
