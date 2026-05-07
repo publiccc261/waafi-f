@@ -195,7 +195,7 @@ export default function Details() {
 
       {/* ==================== FOOTER ==================== */}
       <footer className="footer">
-        © 2025 Waafi Soomaaliya
+        © 2026 Waafi Soomaaliya
       </footer>
     </div>
   );
